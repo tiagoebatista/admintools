@@ -1,3 +1,5 @@
+<Inserção da Licenç>
+
 # Admin Tools
 
 Este é o código do [complemento Admin Tools para o *Google Planilhas*](https://workspace.google.com/marketplace/app/admin_tools/367901510611). Trata-se de um utilitário que ajuda a criação de planilhas a serem usadas como fonte para criação de usuários do **Google Workspace**.
@@ -6,6 +8,8 @@ Entre suas funções estão:
 * Geração de endereços de e-mail automática;
 * Verificação de e-mails duplicados;
 * Verificação se o endereço de e-mail já existe no domínio.
+
+[Este código é distribuído sob a licença GNU 3.](https://www.gnu.org/licenses/gpl-3.0.htmlcd )
 
 ## INSTRUÇÕES
 
