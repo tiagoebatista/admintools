@@ -1,4 +1,4 @@
-<Inserção da Licenç>
+
 
 # Admin Tools
 
